@@ -1,0 +1,62 @@
+[
+    {
+        "level": 1,
+        "question": "Which of the following is a European country that starts with 'M'?",
+        "answers": ["Morocco", "Monaco", "Mitzerland", "Madrid"],
+        "correct_answer": "Monaco"
+    },
+    {
+        "level": 2,
+        "question": "Which of the following is the correct freezing point of water?",
+        "answers": ["-100 C", "0 F", "0 K", "32 F"],
+        "correct_answer": "32 F"
+    },
+    {
+        "level": 3,
+        "question": "Who was the first US President to be impeached?",
+        "answers": ["Andrew Johnson", "James Monroe", "Warren Harding", "Bill Clinton"],
+        "correct_answer": "Andrew Johnson"
+    },
+    {
+        "level": 4,
+        "question": "Finish the phrase: The early bird gets the ___?",
+        "answers": ["disease", "worm", "present", "burn"],
+        "correct_answer": "worm"
+    },
+    {
+        "level": 5,
+        "question": "Which of these classical composers wrote 24 caprices for solo violin?",
+        "answers": ["Beethoven", "Bach", "Paganini", "Mozart"],
+        "correct_answer": "Paganini"
+    },
+    {
+        "level": 6,
+        "question": "How old did America become in the year 2023?",
+        "answers": ["247", "300", "512", "219"],
+        "correct_answer": "247"
+    },
+    {
+        "level": 7,
+        "question": "Which country has the greatest population in 2023?",
+        "answers": ["Nigeria", "Germany", "Bangladesh", "Indonesia"],
+        "correct_answer": "Indonesia"
+    },
+    {
+        "level": 8,
+        "question": "Which of the following words unscrambled is a condiment?",
+        "answers": ["ynsamisaeo", "bcqsaue", "koetchp", "oeahtudnsymr"],
+        "correct_answer": "oeahtudnsymr"
+    },
+    {
+        "level": 9,
+        "question": "Which of the following is not a capital city?",
+        "answers": ["Toronto", "New Delhi", "Moscow", "Washington DC"],
+        "correct_answer": "Toronto"
+    },
+    {
+        "level": 10,
+        "question": "How many super bowls did Tom Brady win?",
+        "answers": ["12", "10", "6", "7"],
+        "correct_answer": "7"
+    }
+]
